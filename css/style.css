@@ -1,0 +1,39 @@
+.h4{
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 2px;
+}
+div{
+    display: inline-block;
+}
+#pt1{
+margin-right: 5px;
+border: 2px solid black;
+max-width: 250px;
+margin: auto;
+}
+#border{
+    border: 5px solid black;
+    border-radius: 5px;
+    
+}
+
+img.aa{
+    border-radius: 100%;
+    height:  40%;
+    width: 40%;
+}
+#imgs{
+    margin: auto;
+    text-align: center;
+}
+#texto{
+    margin-left: 70px;
+}
+#tecno{
+    margin: auto;
+    text-align: center;
+    margin-left: 40px;
+}
+
+
